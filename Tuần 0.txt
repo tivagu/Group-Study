@@ -1,0 +1,12 @@
+- Tạo tài khoản Github
+- Kết nối tới repo (là group github) với nhóm do tui tạo ra 
+- Làm quen với các cú pháp đơn giản gồm:  
+    git config --global; 
+    git clone; 
+    git pull; 
+    git add; 
+    git commit; 
+    git push origin. 
+    -> Còn cụ thể cần ghi những gì mọi người sẽ tìm hiểu trên mạng nhé
+- Sau đó tạo folder riêng với tên là tên mình (VD: KimNgan; DuyTien;...), rồi tạo file .txt (với tên là từng tuần: VD: tuần 0; tuần 1; ...) 
+ghi ra những gì mọi người đã tiếp cận và học được những gì trong tuần này sau đó up nó lên github từ các cú pháp mà mọi người đã học
