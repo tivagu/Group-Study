@@ -19,8 +19,8 @@ Repository này được thành lập với vai trò là không gian lưu trữ 
 | Icon | Thành Viên | Vai Trò / Trách Nhiệm | GitHub Profile |
 |:---:|---|---|---|
 | 👑 | [Đào Minh Dân] | Leader (Repository Owner) | [@tivagu](https://github.com/tivagu) |
-| 🚀 | [Họ và Tên 2] | Thành viên Nghiên cứu & Phát triển | [@username](https://github.com/username) |
-| 🧠 | [Họ và Tên 3] | Thành viên Phân tích & Xử lý số liệu | [@username](https://github.com/username) |
+| 🚀 | [Phùng Thái Duy Tiến] | Kỹ Thuật Phần Mềm & DevOps | [@bimbim20042007](https://github.com/bimbim20042007) |
+| 🧠 | [Trần Gia Phúc] | Kỹ Thuật Phần Mềm & Mobile Dev | [@trangiaphuc19](https://github.com/trangiaphuc19) |
 | 🛡️ | [Họ và Tên 4] | Thành viên Tối ưu & Kiểm duyệt nội dung | [@username](https://github.com/username) |
 | 💡 | [Họ và Tên 5] | Thành viên Đóng góp giải pháp | [@username](https://github.com/username) |
-| 🚀 | [Họ và Tên 2] | Thành viên Nghiên cứu & Phát triển | [@username](https://github.com/username) |
+| 🚀 | [Họ và Tên 6] | Thành viên Nghiên cứu & Phát triển | [@username](https://github.com/username) |
