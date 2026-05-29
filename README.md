@@ -21,6 +21,6 @@ Repository này được thành lập với vai trò là không gian lưu trữ 
 | 👑 | [Đào Minh Dân] | Leader (Repository Owner) | [@tivagu](https://github.com/tivagu) |
 | 🚀 | [Phùng Thái Duy Tiến] | Kỹ Thuật Phần Mềm & DevOps | [@bimbim20042007](https://github.com/bimbim20042007) |
 | 🧠 | [Trần Gia Phúc] | Kỹ Thuật Phần Mềm & Mobile Dev | [@trangiaphuc19](https://github.com/trangiaphuc19) |
-| 🛡️ | [Họ và Tên 4] | Thành viên Tối ưu & Kiểm duyệt nội dung | [@username](https://github.com/username) |
-| 💡 | [Họ và Tên 5] | Thành viên Đóng góp giải pháp | [@username](https://github.com/username) |
-| 🚀 | [Họ và Tên 6] | Thành viên Nghiên cứu & Phát triển | [@username](https://github.com/username) |
+| 🛡️ | [Nguyễn Tấn Duy] | Data processing | [@duyduylamattroinho](https://github.com/duyduylamattroinho) |
+| 💡 | [Trần Lê Kim Ngân] | Data processing | [@nonthinn](https://github.com/nonthinn13499) |
+| 🚀 | [Tạ Chấn Nam] | AI Engineering | [@TNKaeya](https://github.com/TNKaeya) |
