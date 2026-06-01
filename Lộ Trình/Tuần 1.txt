@@ -1,0 +1,18 @@
+Tuần 1 Làm quen với học máy và mô hình linear + logistic:
+
+
+Với linear: 
+- Tìm hiểu về định nghĩa Loss function và tham số (weight - w và bias - b) (tổng quan, sau đó chi tiết về MSE function) -> Cần nằm được vì sao lại có loss? loss làm gì? đầu vào và đầu ra của từng mô hình mất mát đã được kể tên? 
+- Nắm được tại sao hàm MSE lại có bình phương? không phải bậc 3 bậc 4? - công thức của MSE tại sao lại có 1/n hay  1/2n ? những hằng số như vậy có ảnh hưởng gì? 
+- Tiếp cận khái niệm Gradient Descent: hiểu định nghĩa của chính nó. Hiểu tại sao lại phải dùng "đạo hàm" ở loss function, cách mô hình "thật sự học sau mỗi vòng lặp" 
+- Tiếp cận khái niệm "convex optimization" và tại sao lúc nào "đạo hàm của loss function" luôn là hàm lồi và luôn có min? 
+- Cuối cùng, ý nghĩa của việc Gradient descent, đầu vào và đầu ra của linear regression, ý nghĩa "linear" dành cho cái nào? tham số hay đường vẽ? 
+
+
+Với logistic: 
+- Tìm hiểu về loss function của logistic - Log binary loss function 
+- tiếp cận Quy tắc chuỗi (chain rule) để chuẩn bị cho đạo hàm của log binary loss function 
+- Tiếp cận đạo hàm của log binary thông qua quy tắc chuỗi. Trả lời câu hỏi: tại sao lại phải dùng quy tắc chuỗi ở đạo hàm này? tại sao lại chia nhỏ và nhỏ hơn đến phần cuối cùng là "tham số" của output y? 
+- Kết quả của đạo hàm log loss và tại sao nó lại là "MSE"? vậy bước Gradient Descent ở đây sẽ sử dụng công thức đạo hàm mô hình nào? 
+- Tiếp cận phương pháp khác của logistic: so với output ban đầu là 0 và 1. Bây giờ output sẽ là trong khoảng từ âm vô cùng đến dương vô cùng. đồ thị hàm số của logistic bây giờ sẽ là gì? kết quả khác gì và ý nghĩa khác gì so với phương pháp cũ? 
+Cuối cùng, ý nghĩa của Loss function là gì trong khi tính toán ta lại dùng đạo hàm của nó?.
