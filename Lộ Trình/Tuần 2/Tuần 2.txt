@@ -1,0 +1,33 @@
+Tuần 2: Làm quen với mô hình Linear + Logistic thông qua xử lý trên tập datasets nhỏ
+
+Tại đây mọi người sẽ làm tổng cộng 3 dự án (thực chất chỉ có 2 dự án, dự án còn lại chỉ là bỏ bớt 1 cột dữ liệu để output khác)
+LƯU Ý: Chỉ sử dụng 3 thư viện có trong code "Tuần 2.py"
+
+Với linear:
+- datasets sẽ có 2 ẩn với ẩn x_linear đã được trích xuất và ẩn y tui sẽ giả sử như trong code với 1 phần "nhiễu" để mô hình tự học rõ hơn
+- Mục tiêu: Mọi người sẽ dựa trên kết quả lý thuyết kèm "xin hướng giải pháp từ AI" để code "Gradient Descent" và "Loss function" để mô hình tiến hành "Học"
+- Yêu cầu: Mọi người sẽ cần phải code trên Loss function làm sao cho nó bé hơn epsilon = 1e-4 và dừng vòng lặp
+- Lưu ý: Vòng lặp (hay epoch) mọi người sẽ không dùng epoch hay for, thay vào đó mọi người sẽ sử dụng while với yêu cầu (output sau - output trước của loss function <= epsilon)
+- Cuối cùng: sau khi có được weight (hay trọng số) mọi người sẽ hiển thị kết quả nghiệm y = w1x1 + w2x2 + b và hiển thị hình ảnh ra màn hình bằng matplotlib và hiển thị biểu đồ loss function từ đầu đến cuối để thấy kết quả "học"
+
+Với Logistic:
+- Tương tự với Linear, nhưng vì datasets có "nhiều hơn 2 ẩn" vì vậy dựa trên gợi ý ở "Tuần 2.py" mọi người sẽ dùng ý tưởng như linear nhưng công thức và output sẽ khác
+- Mục tiêu: Tương tự linear
+- Yêu cầu: loss function và epsilon sẽ tương tự như linear.
+- Lưu ý: dù datasets có 3 ẩn, nhưng khi hiển thị hình vẽ, mọi người sẽ phải "chỉnh" lại ẩn z thay vì tạo tọa độ mới thì sẽ phân loại thông qua ranh giới của đường thẳng
+Sử dụng matplotlib để chỉnh sửa và phân loại ranh giới trên hoặc dùng numpy (phần này mọi người có thể nhờ AI giải thích cụ thể hơn). Sao cho output hình vẽ sẽ chỉ có 2 trục tọa độ nhưng vẫn biểu diễn được x y và z (0 và 1)
+
+- Ở dự án thứ 3, thực chất là tương tự với Logistic nhưng lần này mọi người sẽ bỏ ẩn x đi (tức x_logistic_age) và yêu cầu tương tự như trên (để mọi người thấy được mô hình Logistic ở 2 hướng khác nhau)
+
+
+Github:
+- Mọi người nộp bài lên folder của mình
+- Yêu cầu file: "Tuần 2_tên mình.py" | "dự án 1.PNG" | "dự án 2.PNG" | "dự án 3.PNG"
+- Mọi người pull code origin main về và code file "Tuần 2.py" của tui trên đấy (đây là kiến thức về tuần 0 mà tui đã nói trước đó)
+
+
+Good Luck!
+
+
+
+
