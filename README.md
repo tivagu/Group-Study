@@ -19,7 +19,7 @@ Repository này được thành lập với vai trò là không gian lưu trữ 
 | Icon | Thành Viên | Vai Trò / Trách Nhiệm | GitHub Profile |
 |:---:|---|---|---|
 | 👑 | [Đào Minh Dân] | Leader (Repository Owner) | [@tivagu](https://github.com/tivagu) |
-| 🚀 | [Phùng Thái Duy Tiến] | Kỹ Thuật Phần Mềm & DevOps | [@bimbim20042007](https://github.com/bimbim20042007) |
+| 🚀 | [Phùng Thái Duy Tiến] | Kỹ Thuật Phần Mềm & DevOps | [@Duy Tiến](https://github.com/just-bim?tab=overview&from=2026-06-01&to=2026-06-03) |
 | 🧠 | [Trần Gia Phúc] | Kỹ Thuật Phần Mềm & Mobile Dev | [@trangiaphuc19](https://github.com/trangiaphuc19) |
 | 🛡️ | [Nguyễn Tấn Duy] | Data processing | [@duyduylamattroinho](https://github.com/duyduylamattroinho) |
 | 💡 | [Trần Lê Kim Ngân] | Data processing | [@nonthinn](https://github.com/nonthinn13499) |
