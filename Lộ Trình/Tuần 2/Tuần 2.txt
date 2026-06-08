@@ -22,11 +22,11 @@ Sử dụng matplotlib để chỉnh sửa và phân loại ranh giới trên ho
 
 Github:
 - Mọi người nộp bài lên folder của mình
-- Yêu cầu file: "Tuần 2_tên mình.py" | "dự án 1.PNG" | "dự án 2.PNG" | "dự án 3.PNG"
+- Yêu cầu file: "Tuần 2_tên mình.py" | "dự án 1.PNG" | "dự án 2.PNG" | "dự án 3.PNG" | "đánh giá.docx"
 - Mọi người pull code origin main về và code file "Tuần 2.py" của tui trên đấy (đây là kiến thức về tuần 0 mà tui đã nói trước đó)
 
-
-Good Luck!
+Về file "đánh giá.docx"
+- Mọi người sẽ ghi lại những gì mà mình đã học, cảm nhận của mọi người về dự án thực tiễn so với trên lý thuyết, gợi ý hướng tiếp cận mới (nếu có)
 
 
 
