@@ -1,0 +1,23 @@
+K-MEANS
+
+Học không giám sát là gì? - Sự khác biệt chính với học có giám sát?
+Ý tưởng chính của mô hình trên. Yêu cầu vẽ ra "dataflow" tức luồng đi của mô hình, input nhận là gì, trải qua các bước nào và ra output gì?
+Tính toán độ "tương đồng" dữ liệu thông qua: Euclidean và Cosine Similiarity, tại sao công thức Cosine phù hợp hơn trong đại đa số tường hợp?
+    - giải thích ký hiệu công thức của 2 định nghĩa trên.
+Hàm mục tiêu (Loss function): WCSS, viết ra công thức
+giải thích từng ký hiệu công thức, tại sao x_i - u_i và bình phương?
+
+CÂU HỎI:
+Tại sao trong trường hợp này ta lại dùng công thức Euclidean mà không phải Cosine?
+Ở lý thuyết, ta biết rằng ý tưởng chính là "tính khoảng cách", vậy nếu trong thực tiễn
+ta sử dụng pixel để đưa ra màu hình ảnh, thì khi đó việc tính toán khoảng cách sẽ có góc nhìn thế nào?
+
+
+OUTPUT:
+Mọi người nộp file Ten_tuần 3_1.docx (deadline hết thứ 4) (VD: Duy_tuần 3_1.docx)
+
+
+
+
+
+
