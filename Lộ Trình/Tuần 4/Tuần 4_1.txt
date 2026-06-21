@@ -1,0 +1,34 @@
+deadline 23:59 thứ 4
+Mục tiêu: trích xuất được tập dữ liệu thô sang dạng ma trận qua thư viện Numpy
+
+Tập dữ liệu:
+    dataset_1.json
+
+Các bước cụ thể:
+    1. Tải json trên terminal với câu lệnh: pip install json
+    2. khởi tạo thư viện json, sau đó code để mở file và load file json lên ram
+    3. dựa trên dataset_1.json, chỉ trích xuất các dữ liệu của key node_id, status, temp và accel
+    4. nếu thấy dòng nào có status: ERROR -> code loại bỏ dòng data đó
+    5. ở value của key temp, ép kiểu dữ liệu thành dạng float, xóa chữ C, xóa khoảng cách
+    6. Code logic trích xuất theo key, đừng theo tuần tự từ node_id đến accel, giả sử thông tin không theo thứ tự
+    7. Gộp lại thành ma trận numpy
+
+Gợi ý:
+    vì đây là dạng str, ta có thể sử dụng phương thức và hàm của str
+    1. split()
+    2. strip()
+    3. loại bỏ các ký tự
+    4. trích xuất nội dung list
+Lưu ý rằng: các hàm trên chưa có "parameter", những tham số bên trong hàm
+mọi người sẽ tìm hiểu và tham khảo AI.
+XIN LỨU Ý RẰNG, mọi người hạn chế tối đa dùng AI, chỉ dùng AI
+1 khi mà mọi người đã làm quen và code được nó mà không cần dùng AI
+bản chất thật sự dùng AI là để: giải quyết các cú pháp lặp đi lặp lại, ta đọc và sửa lại theo logic của mk
+
+ĐẦU RA:
+    1 ma trận numpy với 4 dòng 3 cột, cột đại diện cho các chỉ số, dòng đại diện cho từng trường hợp
+    VD: [N01, 34.5, [0.12, -0.05, 1.01]]
+
+
+
+
