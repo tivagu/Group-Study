@@ -1,0 +1,35 @@
+deadline 23:59 chủ nhật
+Mục tiêu: trích xuất được tập dữ liệu thô sang dạng ma trận qua thư viện Numpy
+
+Tập dữ liệu:
+    dataset_2.txt
+
+Các bước cụ thể:
+    1. chạy cú pháp with open() để lấy địa chỉ của file .txt
+    2. chạy vòng lặp for để lấy dữ liệu (CÂU HỎI: chạy vòng lặp for khác json.load(file) nếu file là dạng json như thế nào?)
+    3. dựa trên dataset_2.txt, chỉ trích xuất các dữ liệu của ID, X, Y và Z
+    4. Loại bỏ các dòng không phải data như: [] 
+    5. Loại bỏ ký tự $IMU và dấu chấm phẩy ở cuối
+    6. trích xuất dữ liệu thông quay dấu : để lấy dữ liệu. LƯU Ý: dấu : ko là dạng dict, chúng chỉ là ký tự biểu diễn
+    7. chạy cú pháp split(":") để tách ra thành list
+    8. trong list chỉ lấy data, không lấy key (X,Y,Z)
+    9. Cuối cùng gộp lại thành ma trận Numpy với kích thước (5, 4)
+
+Gợi ý:
+    vì đây là dạng str, ta có thể sử dụng phương thức và hàm của str
+    1. split()
+    2. strip()
+    3. loại bỏ các ký tự
+    4. trích xuất nội dung list
+Lưu ý rằng: các hàm trên chưa có "parameter", những tham số bên trong hàm
+mọi người sẽ tìm hiểu và tham khảo AI.
+XIN LỨU Ý RẰNG, mọi người hạn chế tối đa dùng AI, chỉ dùng AI
+1 khi mà mọi người đã làm quen và code được nó mà không cần dùng AI
+bản chất thật sự dùng AI là để: giải quyết các cú pháp lặp đi lặp lại, ta đọc và sửa lại theo logic của mk
+
+ĐẦU RA:
+    1 ma trận numpy với kích thước (5,4). Dữ liệu được lọc và sạch như deadline lần trước
+
+
+
+

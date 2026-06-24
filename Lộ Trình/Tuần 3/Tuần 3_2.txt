@@ -1,0 +1,11 @@
+
+THỰC HÀNH:
+Dựa trên hình ảnh mà tui cung cấp và file Tuần 7.py, mọi người tải lần lượt 2 cái file đó. Sau đó tạo logic code và xuất ra ảnh để xem sự khác biệt giữa dung lượng trước và sau.
+
+Hình thức: mọi người tạo lần lượt cho tui tâm cụm K: 5, 10, 20.
+TỪ BÂY GIỜ, mọi người có thể sử dụng thư viện chuẩn (scklearn) 
+(yêu cầu mọi người cần pip install), mọi người ko cần code thư viện, nhưng phải biết cách xài thư viện
+Xog rồi chụp ảnh cho 3 kết quả trên. 
+Cuối cùng ở K = 20, mọi người xuất ra pdf để thấy dung lượng thay đổi thế nào. 
+(Đây là bước đầu tiên và hiệu quả nhất để thấy lĩnh vực Data Sciene)
+
