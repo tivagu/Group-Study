@@ -1,0 +1,26 @@
+deadline 23:59 thứ 4
+Mục tiêu: trích xuất được tập dữ liệu thô sang dạng ma trận qua thư viện Numpy
+
+Tập dữ liệu:
+    gas_sensor_raw.txt
+
+Các bước cụ thể:
+    1. Chạy cú pháp with open() để lấy địa chỉ của file .txt.
+    2. Chạy vòng lặp for để đọc dữ liệu theo từng dòng.
+    3. Ở cột 6 và cột 7 (Pres_1, Pres_2): xóa toàn bộ khoảng cách ở đầu và cuối, sau đó ép kiểu dữ liệu thành dạng float.
+    4. Ở cột 8, 9, 10: Đây ký tự  trong []. Bóc tách nhỏ hơn từng trường FAN, ERR, ZONE 
+    thông qua các ký tự phân tách như | và : để lấy giá trị số nguyên của chúng.
+    5. Code xử lý trích xuất động linh hoạt, giả sử vị trí của các cụm FAN, ERR, ZONE trong chuỗi lồng có thể bị xáo trộn thứ tự ngẫu nhiên giữa các dòng.
+    6. tạo thành ma trận Numpy
+
+Gợi ý:
+    Vì dữ liệu ban đầu đọc lên là dạng chuỗi (str), mọi người có thể linh hoạt sử dụng các phương thức toán chuỗi:
+    1. split() với các tham số phân tách phù hợp.
+    2. strip() để xóa khoảng trắng hoặc ký tự thừa như dấu ngoặc [].
+    3. Trích xuất nội dung phần tử trong list thông qua chỉ số (index) hoặc tìm kiếm từ khóa.
+Lưu ý rằng: Các hàm trên chưa có tham số bên trong hàm, mọi người sẽ tự tìm hiểu tài liệu hoặc tham khảo AI.
+
+XIN LƯU Ý RẰNG: Mọi người hạn chế tối đa dùng AI. Chỉ dùng AI một khi mọi người đã hiểu bản chất
+
+ĐẦU RA:
+    1 ma trận Numpy với kích thước (20, 10) 
