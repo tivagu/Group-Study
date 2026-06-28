@@ -1,0 +1,12 @@
+[SYSTEM] Initializing UART Communication...
+$IMU;ID:01;X:0.02;Y:-0.05;Z:0.98;
+$IMU;ID:01;X:0.05;Y:-0.04;Z:1.01;
+
+[WARN] Battery low voltage detected!
+$IMU;ID:01;X:-0.01;Y:-0.06;Z:0.95;
+
+[DEBUG] Packet dropped due to checksum failure
+$IMU;ID:01;X:0.00;Y:0.01;Z:0.99;
+$IMU;ID:01;X:0.03;Y:-0.03;Z:1.02;
+
+[SYSTEM] Powering down peripheral devices...
