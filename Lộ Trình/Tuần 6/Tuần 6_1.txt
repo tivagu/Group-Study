@@ -1,0 +1,23 @@
+Deadline: Thứ 4 23:59
+
+Chủ đề: K-means
+
+Lý do:
+    đây là mô hình để nén dữ liệu từ 1 bức ảnh rất rất nhiều màu thành nhiều màu hoặc ít màu nhưng vẫn giữ được màu 
+do mình thiết lập
+    Mọi người sẽ học các ý chính của mô hình để hiểu ý tưởng và hướng nó làm, dữ liệu được xử lý thế nào.
+
+Nội dung:
+    Nhắc lại học không giám sát là gì? sự khác biệt so với học có giám sát và tại sao lại chia ra thành 2?
+    2 phương pháp đo khoảng cách trong không gian vector: Euclidean và Cosine. Nội dung và ý tưởng, công thức
+    Centroid là gì? quá trình cập nhật tâm cụm là gì? 
+    Hàm mục tiêu (WCSS): hàm mục tiêu ở đây sẽ là gì? hàm mục tiêu cố gắng tối ưu hóa cái nào?
+
+Yêu cầu cần học:
+    Centroid; Euclidean; Cosine; WCSS
+    Qúa trình "học" của mô hình K-means là gì? thay đổi tham số nào?
+    Input data của mô hình sẽ là gì? và output là gì?
+
+
+
+
