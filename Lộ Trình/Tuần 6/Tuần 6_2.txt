@@ -1,0 +1,38 @@
+Deadline: Chủ Nhật 23:59
+
+Chủ đề: Thực hành với K-means
+ 
+Lý do:
+    sau khi tìm hiểu sơ lược về ý tưởng và cách K-means hoạt động, bây giờ ta sẽ thử thực hành với nó để thấy kết quả trực quan hơn
+
+
+Nội dung và gợi ý:
+    Sử dụng tất cả những kiến thức và định nghĩa của mọi người đã học để giải quyết 2 bài toán:
+    - Các thư viện được sử dụng: sklearn, numpy, matplotlib
+    - Đường dẫn file: dataset_1.txt và dataset_2.png
+    Với file 1:
+    - Mọi người trích xuất dữ liệu thành ma trận numpy như đã làm ở các tuần trước
+    - Sau đó sử dụng thư viện sklearn để chạy model K-means (Lưu ý: mọi người sẽ chạy 3 lần với tham số K lần lượt: 2, 5, 10)
+    - Cuối cùng in ra các giá trị của K sau khi chạy model và hiển thị biểu đồ scatter, các dữ liệu nào thuộc K nào? (Gợi ý: mọi người nhờ AI hướng dẫn ghép màu)
+    Với file 2:
+    - Sử dụng matplotlib.pyplot để tải ảnh 
+    - sau đó nén ảnh thành 1D shape để trích xuất K và xử lý chuỗi dữ liệu (Lưu ý: mọi ngưởi sẽ sử dụng lần lượt K = 2, 5, 10 và 20)
+    - Sau đó khởi tạo hàm sklearn.cluster để import KMeans và chạy hàm KMeans() và hàm fit()
+    - sau đó reshape lại và hiển thị lại ảnh dã nén thông qua thư viện matplotlib (Gợi ý: mọi người sẽ nhờ AI hướng dẫn cách reshape, chạy hàm và dán ảnh)
+
+Lưu ý: 
+    Mọi người sử dụng AI như gia sư, dùng để hỏi cách sử dụng hàm, các tham số của hàm và cách reshape và dán màu cho các dữ liệu
+    Hạn chế vibe-coding, chỉ đưa ra giải pháp và cách làm.
+
+Đầu ra:
+    2 file .py của 2 Bài
+    1 file pdf chứa 3 ảnh của bài 1 (k = 2, 5 ,10) và 4 ảnh của bài 2 (K = 2, 5 ,10, 20)
+
+Yêu cầu :
+    Mọi người cần phải làm 2 file .py để giải quyết 2 bài toán dưới đây
+Bài 1:
+    Tải file dataset_1.txt về và tiến hành trực quan hóa dữ liệu dựa trên gợi ý ở trên.
+Bài 2:
+    Tải file dataset_2.png về và tiến hành trực quan hóa dữ liệu dựa trên gợi ý ở trên.
+
+
